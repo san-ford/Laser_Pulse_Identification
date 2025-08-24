@@ -1,2 +1,2 @@
-# Laser Pulse Identification Using Neural Networks
-A neural network is used to detect laser pulses in streak camera images. This algorithm serves as the general proof of concept for a more developed laser pulse detection algorithm with a specific optical build.
+# Laser Pulse Identification
+Two algorithms are used to demonstrate how laser pulses may be automatically detected in streak camera images. A neural network and a Laplacian of Gaussian (LoG) algorithm are used to perform preliminary laser pul
